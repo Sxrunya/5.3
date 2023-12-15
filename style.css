@@ -1,0 +1,41 @@
+ol {
+  margin-left: -40px;
+  margin-top: -20px;
+  list-style-position: inside;
+}
+
+body{
+  background-color: bisque;
+}
+
+*{
+  text-align: center;
+}
+
+h1,h2{
+  color: blueviolet;
+  background-color: aquamarine;
+}
+
+.note{
+  color: red;
+  font-size: 20px;
+  background-color: white;
+}
+
+li[value="2"]{
+  color: darkseagreen;
+}
+
+li[id="id-selector-demo"]{
+  color: deeppink;
+}
+
+li[value="4"]{
+  color: cornflowerblue;
+}
+
+li[value="5"]{
+  color: darkolivegreen;
+}
+/* Write your CSS below, don't change the rules above. */
